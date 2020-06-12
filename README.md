@@ -1,6 +1,7 @@
 # NBA Data ML Model
  
 Created by Nickhil Tekwani and Esha Aggarwal
+
 Data from https://www.kaggle.com/drgilermo/nba-players-stats?select=Seasons_Stats.csv
 
 ## Project Summary
