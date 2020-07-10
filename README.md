@@ -1,4 +1,4 @@
-# NBA Data ML Model
+# NBA Data ML Model for Predicting Player Efficiency Rating
  
 Created by Nickhil Tekwani and Esha Aggarwal
 
